@@ -14,7 +14,7 @@ This is a simple web project, can be on any web server or even local file system
 
 ## How to Contribute
 
-Please for this repository and issue pull requests for review. 
+Please for this repository and issue Pull Requests for review. 
 
 ### Copyright
 2021 Git training
