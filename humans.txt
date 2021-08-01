@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Kenju -- rzzlknjtrndd@gmail.com
 
 # THANKS
 
